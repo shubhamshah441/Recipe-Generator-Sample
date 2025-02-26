@@ -1,4 +1,4 @@
-Recipe-Generator-Sample
+Recipe-Generator
 
 Recipe Generator is a web app that helps users create personalized recipes based on available ingredients. Using AI, it suggests ingredient substitutions and dietary recommendations. Ideal for home cooks, food bloggers, and enthusiasts, it streamlines recipe creation, management, and sharing.
 
@@ -10,6 +10,7 @@ Features
 🌍 Supports Multiple Cuisines: Find recipes from different cuisines worldwide.
 📊 Ingredient Substitutions: AI suggests alternative ingredients based on availability.
 💾 Save & Share: Users can download, store, and share their recipes.
+
 Stakeholders
 
 Primary Users: Food bloggers, home cooks, and cooking enthusiasts.
@@ -41,6 +42,7 @@ Start the Development Server
 npm start
 Open the App
 Visit http://localhost:3000 in your browser.
+
 Development Approach
 
 📌 Agile Methodology: Iterative development with regular feedback loops.
